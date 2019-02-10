@@ -1,0 +1,6 @@
+framework module Pods_SmallCaseTestDev {
+  umbrella header "Pods-SmallCaseTestDev-umbrella.h"
+
+  export *
+  module * { export * }
+}

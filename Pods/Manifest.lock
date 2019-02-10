@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Kingfisher (4.10.1)
+  - PKHUD (5.2.1)
+  - SwiftChart (1.0.1)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - PKHUD (~> 5.0)
+  - SwiftChart
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - PKHUD
+    - SwiftChart
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  PKHUD: 4e6162c4c39ac367c6934e9855c6b4762ee16256
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 9710b7fae348cd281ae75f65dd9b14ea982a0a52
+
+COCOAPODS: 1.5.3
